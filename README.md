@@ -4,7 +4,7 @@ Automated Optical Mark Recognition (OMR) system for processing and scoring multi
 
 ## 🚀 [**Live Demo**](https://your-app-name.streamlit.app)
 
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://omr-evaluation-system.streamlit.app/))
 
 ## ✨ Key Features
 
