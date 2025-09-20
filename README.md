@@ -52,7 +52,7 @@ Automated Optical Mark Recognition (OMR) system for processing and scoring multi
 
 ## 🚀 Quick Start
 
-1. **Visit the app**: [Your App URL](https://your-app-name.streamlit.app)
+1. **Visit the app**: [Your App URL](https://omr-evaluation-system.streamlit.app/)
 2. **Create exam session** with your exam parameters
 3. **Upload answer keys** in Excel format
 4. **Process OMR sheets** by selecting the correct set
@@ -94,12 +94,6 @@ streamlit run streamlit_app.py
 ✅ **Professional** - Comprehensive reporting and analytics  
 ✅ **Reliable** - Session-based processing with error handling
 
-## 📖 Documentation
-
-- [📋 User Guide](docs/user-guide.md) - Complete usage instructions
-- [🔧 Technical Docs](docs/technical.md) - API and integration details  
-- [💡 Best Practices](docs/best-practices.md) - Optimization tips
-- [❓ FAQ](docs/faq.md) - Frequently asked questions
 
 ## 🤝 Contributing
 
@@ -109,30 +103,3 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
-## 📞 Support
-
-- **Email**: [support@your-domain.com](mailto:support@your-domain.com)
-- **Issues**: [GitHub Issues](https://github.com/your-username/omr-evaluation-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/omr-evaluation-system/discussions)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/) - Amazing Python web framework
-- Image processing powered by [OpenCV](https://opencv.org/)
-- Data analysis using [Pandas](https://pandas.pydata.org/)
-- Deployed on [Streamlit Community Cloud](https://share.streamlit.io/)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/omr-evaluation-system&type=Date)](https://star-history.com/#your-username/omr-evaluation-system&Date)
-
----
-
-**Made with ❤️ for the education community**
-
-[🌐 Live Demo](https://your-app-name.streamlit.app) | [💻 Source Code](https://github.com/your-username/omr-evaluation-system) | [📧 Contact](mailto:your.email@domain.com)
