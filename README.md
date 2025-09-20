@@ -2,7 +2,7 @@
 
 Automated Optical Mark Recognition (OMR) system for processing and scoring multiple-choice answer sheets with 100% accuracy through manual set selection.
 
-## 🚀 [**Live Demo**]([https://your-app-name.streamlit.app](https://omr-evaluation-system.streamlit.app/))
+## 🚀 [**Live Demo**](https://omr-evaluation-system.streamlit.app/)
 
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://your-app-name.streamlit.app](https://omr-evaluation-system.streamlit.app/))
 
