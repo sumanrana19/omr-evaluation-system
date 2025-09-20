@@ -52,7 +52,7 @@ Automated Optical Mark Recognition (OMR) system for processing and scoring multi
 
 ## 🚀 Quick Start
 
-1. **Visit the app**: [Your App URL](https://omr-evaluation-system.streamlit.app/)
+1. **Visit the app**: [omr-evalution-systemL](https://omr-evaluation-system.streamlit.app/)
 2. **Create exam session** with your exam parameters
 3. **Upload answer keys** in Excel format
 4. **Process OMR sheets** by selecting the correct set
